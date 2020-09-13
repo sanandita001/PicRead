@@ -1,3 +1,4 @@
 # PicRead
 
-Image captioning using deep learning.
+Image captioning using deep learning. Work in progress.
+
